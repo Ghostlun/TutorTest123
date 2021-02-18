@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+/* 기본적인 테그설정 */
+h1 {
+	font-size: 30px;
+	font-weight: normal;
+	margin: 0;
+    margin-bottom: 10px;
+    color :red
+}
+
+/* 아이디를가지고있는것 */
+#progress-bar{
+	margin: 0;
+	padding: 0;
+	margin-bottom: 15px;
+	list-style: none;
+}
+
+#id-1 {
+
+    color: blue;
+}
+
+/* 클래스를 가지고 있는것 */
+.common-btn{
+	padding: 4px 6px;
+	background-color: #07C;
+	color: white;
+	border: none;
+	border-radius: 10px;
+	text-decoration: none;
+}
