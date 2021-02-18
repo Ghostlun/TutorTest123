@@ -12,8 +12,8 @@ class RandomButton extends React.Component {
 
             imageList : ['cup', 'bulb', 'car'],
             number : 0,
-            imageName : '../src/Image/bulb.jpg'
-
+            imageName : '../src/Image/bulb.jpg',
+            ADD : "Value"
         }
 
     }
